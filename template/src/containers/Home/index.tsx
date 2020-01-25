@@ -41,8 +41,9 @@ const Home: React.FC<RouteComponentProps> = (props) => {
             </Heading>
 
             <Text opacity={0.7} fontSize="xl" mt="6">
-              Chakra UI is a simple, modular and accessible component library that gives you all the
-              building blocks you need to build your React applications.
+              This CRA templates gives you everything you need to get started developing a React
+              application with Chakra UI, including navigation, a few sample screens, cool icons and
+              linting config.
             </Text>
 
             <Box mt="6">
@@ -86,9 +87,9 @@ const Home: React.FC<RouteComponentProps> = (props) => {
             React Router is a collection of navigational components that compose declaratively with
             your application.
           </Feature>
-          <Feature icon={Terminal} title="Composable">
-            Components were built with composition in mind. You can leverage any component to create
-            new things.
+          <Feature icon={Terminal} title="Tools">
+            Comes with a few additional handy tools and components, along with the configuration for
+            them.
           </Feature>
         </Grid>
       </Container>
