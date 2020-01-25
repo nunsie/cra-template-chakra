@@ -2,7 +2,6 @@
   "name": "cra-template-chakra",
   "version": "1.0.0",
   "description": "Opinionated CRA template with Chakra UI and friends.",
-  "main": "index.js",
   "repository": "https://github.com/nunsie/cra-template-chakra",
   "author": "Nusrath Khan <nusrath501khan@gmail.com>",
   "license": "MIT",
