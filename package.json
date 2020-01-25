@@ -1,9 +1,29 @@
 {
   "name": "cra-template-chakra",
-  "version": "1.0.1",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript",
+    "chakra"
+  ],
   "description": "Opinionated CRA template with Chakra UI and friends.",
-  "repository": "https://github.com/nunsie/cra-template-chakra",
+  "main": "template.json",
   "author": "Nusrath Khan <nusrath501khan@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nunsie/cra-template-chakra.git"
+  },
   "license": "MIT",
-  "private": false
+  "engines": {
+    "node": ">=8.10"
+  },
+  "bugs": {
+    "url": "https://github.com/facebook/create-react-app/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
 }
