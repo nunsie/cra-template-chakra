@@ -16,11 +16,7 @@
 
 ### ✨ [Demo](https://cra-template-chakra.netlify.com)
 
-## Install
-
-```sh
-yarn
-```
+![img](screenshot.png)
 
 ## Usage
 
@@ -28,23 +24,17 @@ yarn
 npx create-react-app <app-name> --template chakra
 ```
 
-## Run tests
-
-```sh
-yarn test
-```
-
 ## Author
 
 👤 **Nusrath Khan <nusrath501khan@gmail.com>**
 
-* Website: https://nusrath.com
-* Twitter: [@md5hashbrown](https://twitter.com/md5hashbrown)
-* Github: [@nunsie](https://github.com/nunsie)
+- Website: https://nusrath.com
+- Twitter: [@md5hashbrown](https://twitter.com/md5hashbrown)
+- Github: [@nunsie](https://github.com/nunsie)
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/nunsie/cra-template-chakra/issues). 
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/nunsie/cra-template-chakra/issues).
 
 ## Show your support
 
@@ -59,5 +49,6 @@ Give a ⭐️ if this project helped you!
 Copyright © 2020 [Nusrath Khan <nusrath501khan@gmail.com>](https://github.com/nunsie).<br />
 This project is [MIT](LICENSE.md) licensed.
 
-***
+---
+
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
